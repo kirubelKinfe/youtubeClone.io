@@ -22,10 +22,5 @@ img {
   width: 100%;
 }
 
-@media (max-width: 760px) {
-  body {
-    padding: 55px 0;
-  }
-  
-}
+
 
