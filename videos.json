@@ -1,0 +1,26 @@
+[
+  {
+    "thumbnail": "thumbnails/thumbnail-7.webp",
+    "channelIcon": "channel-pictures/channels4_profile.jpg",
+    "title": "ማለዳ | Maleda (Official Music Video)",
+    "author": "Kassmasse ካሥማሠ",
+    "status": "1,887,633 views Premiered Jan 15, 2021",
+    "id": "id1"
+  },
+  {
+    "thumbnail": "thumbnails/thumbnail-3.webp",
+    "channelIcon": "channel-pictures/channel-5.jpeg",
+    "title": "ES6 Tutorial: Learn Modern JavaScript in 1 Hour",
+    "author": "Programming with Mosh",
+    "status": "690k views 3 years ago",
+    "id": "id2"
+  },
+  {
+    "thumbnail": "thumbnails/thumbnail-6.webp",
+    "channelIcon": "channel-pictures/channel-2.jpeg",
+    "title": "Junior Vs Senior Code - How To Write Better Code",
+    "author": "Web Dev Simplified",
+    "status": "1M views 2 years ago",
+    "id": "id3"
+  }
+]
